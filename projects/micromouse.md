@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/Untitled.png
+image: img/micromouse/proto_square.png
 title: "MakeMobile"
 date: 2018 - Present
 published: true
@@ -25,7 +25,7 @@ I am so grateful for the doors and windows that FIRST robotics has opened for me
 
 <hr>
 
-<img class="img-fluid" src="../img/micromouse/protolabworking.png" alt="Working on the Innovation Station" style="float: left; max-width:  100px; margin-right: 10px;">
+<img class="img-fluid" src="../img/micromouse/protolabworking.png" alt="Working on the Innovation Station" style="float: left; max-width:  300px; margin-right: 10px;">
 
 
 Part of being a part of Robotics was working with the MakeMobile. 
