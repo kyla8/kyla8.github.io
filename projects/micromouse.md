@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/untitled.png
+image: img/micromouse/Untitled.png
 title: "MakeMobile"
 date: 2018 - Present
 published: true
