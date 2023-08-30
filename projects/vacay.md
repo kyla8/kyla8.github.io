@@ -13,6 +13,7 @@ summary: "A visualization and analysis tool to enhance the comprehension and pre
 ---
 
 <img class="img-fluid" src="../img/kyla_akamai_ifa.jfif">
+<img class="img-fluid" src="../img/Kyla1 (1).jpg">
 
 In the summer of 2023, I had the privilege of being chosen to participate in the <a href="https://www.akamaihawaii.org/preparing-for-akamai-internship/" target="_blank">Akamai Workforce Initiative</a>. This remarkable opportunity led me to the picturesque landscapes of the Big Island of Hawaii, where I had the honor of contributing to a significant project. Specifically, I engaged in meaningful work at the 2.2-meter telescope on Maunakea.
 
@@ -27,6 +28,10 @@ Abstract:
 We are developing a python program that will leverage historical and newly received PAM files to understand satellite patterns and assist with operational decision-making. This visualization and analysis tool will analyze the percentage each area is open and how long until the next closure. 
 
 <hr>
+<img class="img-fluid" src="../img/ezgif.com-gif-maker.gif">
+<img class="img-fluid" src="../img/jday258_2022_625.png">
+
+
 
 
 Here is some example code to illustrate what the information for the PAMs were stored as:
