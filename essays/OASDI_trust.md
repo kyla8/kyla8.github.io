@@ -51,14 +51,14 @@ In Figure 2, using historical data of the trust fund balance from 1990 to 2020 f
 
 If the trust fund becomes insolvent, Americans in the lowest income will be adversely affected and may seek dependence in other welfare programs. By effectively reducing benefits while shielding 40% of low earners will allow the OASDI program to avoid the risk of exhaustion and continue providing benefits to all Americans after the trust fund is insolvent on the income in different quintiles. 
 
-<div style="max-width: 200px; margin-right: 20px;">
+<div style="max-width: 100px; margin-right: 20px;">
     <img class="rounded float-start pe-4" src="../img/difficulty/oasdi3.png">
 </div>
 
 Fig. 3. Trust Fund Balance with 20% Reduction Of Benefits Across All Quintiles. The limits for the confidence interval value for benefit costs, represented with the red line, was multiplied by 0.8.
 In Figure 3, the trust fund balance was predicted with a 20% reduction of benefits. This resulted in a delay to the insolvency date to 2046. However, that is only a 10 year difference that provides a temporary solution to a semi-permanent problem. 
 
-<div style="max-width: 200px; margin-right: 20px;">
+<div style="max-width: 100px; margin-right: 20px;">
     <img class="rounded float-start pe-4" src="../img/difficulty/oasdi4.png">
 </div>
 
@@ -76,7 +76,7 @@ To ensure trust fund solvency in the future, actions in addition to reducing ben
 
 Determining a solution to create a more sustainable trust fund has been ignored for too long. If the government had taken initiative 10 years ago, by reducing benefits for the highest quintile by 20% and by 10% for the 2nd and 3rd highest quintiles, the trust fund would be much more sustainable, and the reduction of benefits or increase in taxes would be of a lesser magnitude (Figure 5). While these changes in 2010 would not have set the trust fund up for solvency, it would have given the government more time and resources to take other action. However, this action was not taken then and we must act now, or the trust fund will be exhausted in around 15 years. If benefits are reduced for those who really need them and more Americans fall into poverty, many will lose trust in the government and there could be potential uprisings. While the solution does reduce benefits, it ensures that those in the lower percentile income keep their benefits to ensure that they are supported.
 
-<div style="max-width: 200px; margin-right: 20px;">
+<div style="max-width: 100px; margin-right: 20px;">
     <img class="rounded float-start pe-4" src="../img/difficulty/oasdi5.png">
 </div>
 
