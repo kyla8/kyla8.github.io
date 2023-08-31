@@ -10,7 +10,7 @@ labels:
   - Learning
   - JavaScript
 ---
-<img scr = "../img/igniting/javascript.png">
+<img class= "img-fluid" scr = "../img/igniting/javascript.png">
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/javascript.ppg">
 
