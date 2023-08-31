@@ -12,7 +12,6 @@ labels:
 summary: "GTEC, or Girls in Technology, Engineering, and Computing is an all girls academy. The girls that run this academy go by the motto, "for girls, by girls", to diminish the gender gap in the S.T.E.A.M. based fields."
 ---
 
-<img class="img-fluid" src="../img/cotton/GTEC 2 (1).PNG">
 
 Through my involvement with Kalani High School's robotics team, I was presented with a unique opportunity to spearhead an all-girls academy. From being a middle-school student being taught these skills to being a part of the volunteering and teaching litle kids robotics in other academies I've been a part of (freshman year of High School). Then, I became the project manger who runs the event. It was transformative to see the my own growth and change. After having run the event, I had the idea for a new program that focused more on the cybersecurity aspect -- Seeing that it is a rising field in the world. 
 
