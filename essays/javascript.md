@@ -11,7 +11,9 @@ labels:
   - JavaScript
 ---
 
-<img class="rounded float-start pe-4" src="../img/igniting/javascript.png">
+<img width= 300px class="rounded float-start pe-4" src="../img/igniting/javascript.png">
+
+<hr>
 
 *JavaScript is the most versatile programming language out there.*
 
