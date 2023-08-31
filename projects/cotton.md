@@ -1,59 +1,30 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/cotton/gtec_square.png
+title: "Girls in Technology, Engineering, and Computing"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Robotics
+  - Cybersecurity
+  - STEM
+summary: "GTEC, or Girls in Technology, Engineering, and Computing is an all girls academy. The girls that run this academy go by the motto, "for girls, by girls", to diminish the gender gap in the S.T.E.A.M. based fields."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/GTEC 2 (1).PNG">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Through my involvement with Kalani High School's robotics team, I was presented with a unique opportunity to spearhead an all-girls academy. From being a middle-school student being taught these skills to being a part of the volunteering and teaching litle kids robotics in other academies I've been a part of (freshman year of High School). Then, I became the project manger who runs the event. It was transformative to see the my own growth and change. After having run the event, I had the idea for a new program that focused more on the cybersecurity aspect -- Seeing that it is a rising field in the world. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+Girls learn about S.T.E.M. in a creative and fun environment that provides activities such as Kahoot, capture the flag, bit bingo, etc. Cybersecurity is a computer science field that I don't see many girls being involved in. This year, I proposed a new class, different from the year-to-year Lego NXT and Coding with KANO that we normally do. I wanted to educate girls specifically on cybersecurity issues, in terms of cryptography, python programming, binary, web analysis and steganography. 
+[GTEC SOP](https://docs.google.com/document/d/1lHHty79quUgZ0alse1YSuerEo2Nd-jy9g8BQcukna2E/edit?usp=sharing).
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Girls in Technology, Engineering, and Computing (GTEC) is a student-led academy hosted by the girls of Team Magma. They follow their motto of “For girls, by girls”. The target audience for enrollment in these academies are 1st to 8th grade girls. As stated in the mission and vision, the goal is to produce and prepare leaders for the real world while simultaneously spreading the ideas of science, technology, education, art, and mathematics (STEAM). This creates a strong foundation for the future of STEAM based professions. Specifically for GTEC, the long term goal is to educate young girls so they may one day help bridge the gender gap in STEAM related fields.
+
+In this academy, Team Magma has a few of their female members of their team host a week-long program running about 4 hours per day. Student mentors and female guests use LEGO EV3 parts to help young women explore robotics and become involved and inspired in STEAM. This program usually involves around 10 to 14 girls. 
+
+Additionally, Team Magma uses this opportunity as a way to fundraise the team while also demonstrating connection to their community and spreading their mission goals. Because of Covid restrictions in the past year, Team Magma has had to cancel this program. The last time this program was hosted was in 2019. However, this coming summer, Team Magma aims to bring back this program with the necessary Covid precautions. The plan is to create a program that gives as much opportunity to young girls as possible by creating an environment where girls are allowed to explore their interests and learn valuable skill sets.
+
+
