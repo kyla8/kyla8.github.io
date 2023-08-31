@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Igniting the fire"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2015-08-26
 published: false
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
