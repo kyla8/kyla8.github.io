@@ -12,6 +12,8 @@ labels:
 ---
 <img scr = "../img/igniting/javascript.png">
 
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/javascript.ppg">
+
 *JavaScript is the most versatile programming language out there.*
 
 In a world where programming languages jostle for supremacy like gladiators in a digital arena, JavaScript has paved its way and struggled through it all. I’m not here to preach that JavaScript is the one and only programming language out there. But let’s be real -- you got to give it some credit! 
