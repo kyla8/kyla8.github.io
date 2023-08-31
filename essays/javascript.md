@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 
-<img width= auto class="rounded float-start pe-4" src="../img/igniting/javascript.png">
+<img class="rounded float-start pe-4" src="../img/igniting/javascript.png">
 
 <hr>
 
