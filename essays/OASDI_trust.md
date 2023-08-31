@@ -25,7 +25,7 @@ The Social Security program started in 1935; looking to pay benefits to replace 
 
 The Old Age, Survivors, and Disability Insurance (OASDI) program gives monthly benefits to retired or disabled workers, and their dependents. The OASDI is funded by payroll taxes of workers and is held in trust funds invested in U.S. Treasury bonds (&ldquo;Social Security Programs in the United States - Old-Age, Survivors, and Disability Insurance&rdquo;). These Social Security trust funds continued to struggle as the average life expectancy grew longer, meaning more benefits were being paid for a longer time. Additionally, birth rates declined, meaning the workforce did not grow as rapidly as it needed to ensure a sufficient income for the SSA trust funds. Eventually, the trust fund will be exhausted and OASDI benefits will be reduced or would be paid on a delayed schedule, harming many Americans by reducing their benefits (&ldquo;Social Security: What would happen if the trust funds ran out?&rdquo;). Many Americans rely on OASDI benefits for most of their income. In 2017, 62 million Americans received about $941 billion in benefits (&ldquo;Annual Statistical Supplement, 2018&rdquo;). Reducing these benefits could potentially put them at risk of poverty and put stress on other federal aid programs such as the Supplemental Nutrition Assistance Program (SNAP) (&ldquo;Characteristics of Supplemental Nutrition Assistance Program Households: Fiscal Year 2018&rdquo;).
 
-<img width = 200px class="rounded float-start pe-4" src="../img/difficulty/oasdi1.png">
+<img width = 600px class="rounded float-start pe-4" src="../img/difficulty/oasdi1.png">
 
 Fig. 1. OASDI Income, Cost, and Expenditures as Percentages of Taxable Payroll from the SSA’s 2020 Trustee’s Report. Scheduled benefits are predicted to be reduced to 79% of their scheduled amount in 2035 when the trust fund runs out of money (&ldquo;2020 OASDI Trustees Report&rdquo;).
 
@@ -39,7 +39,7 @@ A 2017 study conducted by the SSA found that social security income accounted fo
 
 It is predicted that the SSA’s trust funds will become insolvent in 2035 as shown in Figure 2 ("Annual Statistical Supplement to the Social Security Bulletin, 2020"). It was found that reducing benefits by reasonable amounts will not reduce costs by enough to prevent the bankruptcy of the trust fund, and thus, other methods for extending the life of the trust fund should be pursued. 
 
-<img width = 200px class="rounded float-start pe-4" src="../img/difficulty/oasdi2.png">
+<img width = 600px class="rounded float-start pe-4" src="../img/difficulty/oasdi2.png">
 
 Fig. 2. Graph of Total Trust Fund Balance With No Change. The trendline predicts that in 2035, the trust fund will run out of money, represented with the red line. The yellow dashed line represents the upper bound for the 95% confidence interval and the brown dashed line is the lower bound. The upper bound of the confidence interval also indicates that the trust fund will run out of money in 2035, while the lower bound indicates that the money will run out at the end of 2034 ("2020 OASDI Trustees Report", "Trust Fund Data").
 
@@ -47,12 +47,12 @@ In Figure 2, using historical data of the trust fund balance from 1990 to 2020 f
 
 If the trust fund becomes insolvent, Americans in the lowest income will be adversely affected and may seek dependence in other welfare programs. By effectively reducing benefits while shielding 40% of low earners will allow the OASDI program to avoid the risk of exhaustion and continue providing benefits to all Americans after the trust fund is insolvent on the income in different quintiles. 
 
-<img width = 200px class="rounded float-start pe-4" src="../img/difficulty/oasdi3.png">
+<img width = 600px class="rounded float-start pe-4" src="../img/difficulty/oasdi3.png">
 
 Fig. 3. Trust Fund Balance with 20% Reduction Of Benefits Across All Quintiles. The limits for the confidence interval value for benefit costs, represented with the red line, was multiplied by 0.8.
 In Figure 3, the trust fund balance was predicted with a 20% reduction of benefits. This resulted in a delay to the insolvency date to 2046. However, that is only a 10 year difference that provides a temporary solution to a semi-permanent problem. 
 
-<img width = 200px class="rounded float-start pe-4" src="../img/difficulty/oasdi4.png">
+<img width = 600px class="rounded float-start pe-4" src="../img/difficulty/oasdi4.png">
 
 Fig. 4. Trust Fund Balance with 30% Reduction of Benefits for All Quintiles. The limits for the confidence interval value for benefit costs, represented with the red line, was multiplied by 0.7.
 
@@ -69,7 +69,7 @@ To ensure trust fund solvency in the future, actions in addition to reducing ben
 Determining a solution to create a more sustainable trust fund has been ignored for too long. If the government had taken initiative 10 years ago, by reducing benefits for the highest quintile by 20% and by 10% for the 2nd and 3rd highest quintiles, the trust fund would be much more sustainable, and the reduction of benefits or increase in taxes would be of a lesser magnitude (Figure 5). While these changes in 2010 would not have set the trust fund up for solvency, it would have given the government more time and resources to take other action. However, this action was not taken then and we must act now, or the trust fund will be exhausted in around 15 years. If benefits are reduced for those who really need them and more Americans fall into poverty, many will lose trust in the government and there could be potential uprisings. While the solution does reduce benefits, it ensures that those in the lower percentile income keep their benefits to ensure that they are supported.
 
 
-<img width = 200px class="rounded float-start pe-4" src="../img/difficulty/oasdi5.png">
+<img width = 600px class="rounded float-start pe-4" src="../img/difficulty/oasdi5.png">
 
 
 Fig. 5. Trust Fund Balance if Benefit Reduction Enacted in 2010. The benefit reduction trendline represents a 20% reduction in benefits from the highest quintile, and a 10% reduction in benefits for the 2nd and 3rd highest quintiles. The limits for the confidence interval value for benefit costs was multiplied by 0.886.
