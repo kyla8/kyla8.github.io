@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 <img scr = "../img/difficulty/degree_difficulty.jpg">
-## Protecting Social Security Beneficiaries: Benefit Reduction to Prevent The Insolvency of the OASDI Trust Funds
+
 
 *The Social security trust funds are projected to become insolvent by 2035. How can we stop that?*
 
