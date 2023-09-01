@@ -15,19 +15,30 @@
   },
   "interests": [
     { "name": "Engineering" },
+    { "name": "Project Management" },
     { "name": "Computer Science" },
     { "name": "3D CAD" },
     { "name": "Robotics" },
-    { "name": "Project Management" }
+    { "name": "Cars" },
+    { "name": "Motorcycles" }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Project Management", "Budgeting and Cost Analysis", "Communication", "Public Speaking", "Organizational skills", "Grant Writing", "Event Planning", "Leadership", "Fundraising" ]
+    },
+    {
+      "name": "World Languages",
+      "keywords": ["Mandarin- Proficent", "Cantonese - intermediate" ]
     }
   ],
   "education": [
@@ -43,71 +54,85 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Online Learning Academy",
+      "position": "Tutor",
+      "website": "http://manoa.hawaii.edu/ola/",
+      "startDate": "2022-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Tutor for math (up to Calculus II)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Adapt and adjust to an online Zoom format of customer service",
+        "Aid clients of all ages understand the curriculum"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Lahaina Shave Ice",
+      "position": "Food Service Associate/Cashier",
+      "website": "",
+      "startDate": "2021-05",
+      "endDate": "2022-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide good customer service to people from all around the world",
+        "Ensure the health and safety of customers through proper food distribution"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kalani Robotics Academy (KRA)",
+      "website": "",
+      "position": "Project Manager",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Project Lead for annual academies",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Kalani hosts annual academies as a fundraiser for the robotics team. KRA is a week-long science camp where students from grades 1-8 get to explore science, technology, engineering, mathematics, and computing",
+        "It is completely student-run from making the flyers to the lesson plans. I had the opportunity to be the project manager where I learned organization and leadership skills"
       ]
     },
     {
-      "organization": "",
+      "organization": "STEM Nights and Robot Demos",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "To outreach to other schools and get kids excited about STEM, the robotics team does STEM nights and robot demos for elementary schools.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Aina Haina Elementary Bristlebot STEM night",
+        "St. Patrick Elementary Bristlebot STEM night",
+        "Kahala Elementary Robot demo"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Regents Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.8. The Regents Scholarship awards full tuition for both Fall and Spring semesters, a $2,000 semester based stipend, and a one-time travel stipend of $2,000 to successful applicants attending University of Hawaiʻi at Mānoa (UHM)."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Engineering Inspiration Award",
+      "date": "2022",
+      "awarder": "For Inspiration and Recognition in Science and Technology (FIRST) Robotics Competition",
+      "summary": "My team won the Engineering Inspiration Award and a free ticket to the World's Competition in Houston, Texas.  See my portfolio site for more details."
+    }, 
+    {
+      "title": "2022 National Honorable Mention",
+      "date": "2022",
+      "awarder": "Aspirations in Computing (NCWIT)",
+      "summary": "NCWIT supports women in STEM and recognizes those individuals that have a significant impact on their community through STEM and outreach."
+    }, 
+    {
+      "title": "World's Dean's List Winner",
+      "date": "2021",
+      "awarder": "For Inspiration and Recognition in Science and Technology (FIRST) Tech Challenge",
+      "summary": "10 people are selected worldwide for recognition for students leaders who have led their Teams and communities to increased awareness for FIRST and its mission."
     }
   ],
+
+  
   "references": [
     {
       "name": "Available upon request"
