@@ -17,7 +17,7 @@ summary: "A visualization and analysis tool to enhance the comprehension and pre
 
 In the summer of 2023, I had the privilege of being chosen to participate in the <a href="https://www.akamaihawaii.org/preparing-for-akamai-internship/" target="_blank">Akamai Workforce Initiative</a>. This remarkable opportunity led me to the picturesque landscapes of the Big Island of Hawaii, where I had the honor of contributing to a significant project. Specifically, I engaged in meaningful work at the 2.2-meter telescope on Maunakea.
 
-This experience provided me with a valuable opportunity to delve deeper into the realm of computer science and its profound implications within the field of astronomy. Furthermore, it allowed me to cultivate and refine my technical skill set, culminating in the organization and execution of a culminating symposium (<a href="https://docs.google.com/presentation/d/1ra2PYJSnuvDenjbpefHL5-Dop-cXw9YU2Lx039eOBu8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>).</p>
+This experience provided me with a valuable opportunity to delve deeper into the realm of computer science and its profound implications within the field of astronomy. Furthermore, it allowed me to cultivate and refine my technical skill set, culminating in the organization and execution of a culminating symposium (<a href="https://docs.google.com/presentation/d/1ra2PYJSnuvDenjbpefHL5-Dop-cXw9YU2Lx039eOBu8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>).
 
 <hr>
 
