@@ -80,6 +80,18 @@
   ],
   "volunteer": [
     {
+      "organization": "Association for Computing Machinery at UH Manoa (ACManoa/ACM)",
+      "website": "https://acmmanoa.org/about/",
+      "position": "Vice President",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Project Manage variousteams on the Board",
+      "highlights": [
+        "Led weekly meetings",
+        "Coordinated with team members and staff about events"
+      ]
+    },
+    {
       "organization": "Kalani Robotics Academy (KRA)",
       "website": "",
       "position": "Project Manager",
