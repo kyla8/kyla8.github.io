@@ -22,10 +22,10 @@ One of the primary reasons programmers use Bootstrap 5 is that it is a huge time
 
 <h3>In Practice</h3>
 
-<img height=350px class="rounded float-start pe-4" src="../img/porsche-website-1.png">
-<img height=350px class="rounded float-start pe-4" src="../img/porsche-website-2.png">
-<img height=350px class="rounded float-start pe-4" src="../img/porsche-website-3.png">
-<img height=350px class="rounded float-start pe-4" src="../img/porsche-website-4.png">
+<img height=350px class="rounded pe-4" src="../img/porsche-website-1.png">
+<img height=350px class="rounded pe-4" src="../img/porsche-website-2.png">
+<img height=350px class="rounded pe-4" src="../img/porsche-website-3.png">
+<img height=350px class="rounded pe-4" src="../img/porsche-website-4.png">
 
 
 In ICS 314, we are learning to apply UI frameworks to an interactive website application. The above pictures are examples of a website I mimicked using HTML, CSS, and Bootstrap 5. [Here](https://www.porsche.com/international/accessoriesandservice/classic/models/944/) is the link to the original website that was mimicked.
