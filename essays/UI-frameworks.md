@@ -10,7 +10,7 @@ labels:
   - Bootstrap
 ---
 
-Building websites was one of the first things I learned about when starting Computer Science in middle school. We started with HTML websites that were nothing but <p>, <h> and <img>. Then, we started to add a touch of color with CSS. As a middle schooler, I knew what I wanted my website to look like but couldn’t get my thoughts on screen. There were clear limitations when using CSS. 
+Building websites was one of the first things I learned about when starting Computer Science in middle school. We started with HTML websites that were nothing ut plain paragraphs with headers and maybe a picture. Then, we started to add a touch of color with CSS. As a middle schooler, I knew what I wanted my website to look like but couldn’t get my thoughts on screen. There were clear limitations when using CSS. 
 
 User Interface (UI) Frameworks are a crucial component of modern web development. UI is a key part of creating visually appealing websites with responsive web applications. Sure, there are other ways to do it? You could slave away time and energy pounding your CSS to work, but using UI frameworks, like Bootstraps 5, simplifies that process. Learning UI frameworks isn’t a walk in the park, but it allows you to get precise outcomes without needing to do bit-by-bit measurements. 
 
