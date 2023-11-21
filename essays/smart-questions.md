@@ -13,6 +13,8 @@ labels:
 
 ## Is there such thing as a stupid question?
 
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 In the evolving digital world of software engineering, there will always be questions – good or bad? That’s still up in the air. 
 
 Smart questions are well written, intelligent, and well-reasoned inquiries that spark conversations that have effective problem-solving. Smart questions serve as a catalyst for deeper conversations and understanding in software development. Smart questions are important in order to have effective problem solving in order to pinpoint the main issue at hand. It is also important to have clear communication to properly transfer knowledge and avoid misunderstandings. Asking the right questions can help with sparking innovation and creativity that can lead to continuous improvement. 
