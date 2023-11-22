@@ -12,8 +12,8 @@ labels:
 summary: "A visualization and analysis tool to enhance the comprehension and presentation of PAMs in order to assess the potential NEGATIVE impacts of growing population of statellites -- new mega-constellations on laser astronomy and the ability to observe the sky."
 ---
 
-<img class="img-fluid" src="../img/kyla_akamai_ifa.jfif">
-<img class="img-fluid" src="../img/Kyla1 (1).jpg">
+<img class="img-fluid" src="../img/Akamai_Intern/kyla_akamai_ifa.jfif">
+<img class="img-fluid" src="../img/Akamai_Intern/Kyla1%20(1).jpg">
 
 In the summer of 2023, I had the privilege of being chosen to participate in the <a href="https://www.akamaihawaii.org/preparing-for-akamai-internship/" target="_blank">Akamai Workforce Initiative</a>. This remarkable opportunity led me to the picturesque landscapes of the Big Island of Hawaii, where I had the honor of contributing to a significant project. Specifically, I engaged in meaningful work at the 2.2-meter telescope on Maunakea.
 
@@ -29,7 +29,7 @@ We are developing a python program that will leverage historical and newly recei
 
 <hr>
 <img class="img-fluid" src="../img/ezgif.com-gif-maker.gif">
-<img class="img-fluid" src="../img/jday258_2022_625.png">
+<img class="img-fluid" src="../img/Akamai_Intern/jday258_2022_625.png">
 
 
 

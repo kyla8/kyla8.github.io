@@ -13,7 +13,7 @@ labels:
 
 ## Is there such thing as a stupid question?
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/smart-questions/software.jpeg">
 
 In the evolving digital world of software engineering, there will always be questions – good or bad? That’s still up in the air. 
 
@@ -22,6 +22,8 @@ Smart questions are well written, intelligent, and well-reasoned inquiries that 
 Having a smart question also helps to alleviate stress from the moderators. Some pet peeves of StackOverflow moderators are those questions without any code snippets and doesn’t include the language or platform the inquirer uses. It is also maddening for moderators to see the inquirer that doesn’t help themselves and just says “my code doesn’t work. Fix it”.
 
 Characteristics of smart questions include something that is specific to what the software issue is, includes code snippets of what the user has previously tried, describing what language and software platform they are using. These details can help other users properly identify the issue and help solve the problem. 
+
+### StackOverflow Examples
 
 This [StackOverflow question](https://stackoverflow.com/questions/77056774/how-can-i-convert-the-time-stamp-with-timezone-info-to-utc-time-in-python) asks for help converting the timestamp data with timezones to Coordinated Universal Time (UTC) time in python. The inquirer gave the specifics (but short and sweet – straight to the point) on their problem for what language they were operating in, as well as the exact timestamp they were trying to convert. The inquirer also provided a code snippet for the line of code they wrote. 
 
