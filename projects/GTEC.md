@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/gtec_square.PNG
+image: img/gtec/gtec_square.PNG
 title: "Girls in Technology, Engineering, and Computing"
 date: 2020
 published: true

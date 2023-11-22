@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/jday258_2022_650___squ.png
+image: img/Akamai_Intern/jday258_2022_650___squ.png
 title: "Enhancing Laser Astronomy Insights through PAM Analysis"
 date: 2023
 published: true

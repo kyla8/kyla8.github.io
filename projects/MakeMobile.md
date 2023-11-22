@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/proto_square.png
+image: img/protolab/proto_square.png
 title: "MakeMobile"
 date: 2018 - Present
 published: true
