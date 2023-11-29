@@ -15,7 +15,7 @@ summary: "The Make Mobile is a repurposed shipping container, meant to spread ro
 
 
 From 2018 - 2022, I was a part of Kalani High School's FIRST (For Inspiration and Recognition of Science and Technology) Robotics team (Team Magma 3008). FIRST gives many opportunities to build ourselves up for challenges we may face in the real world, giving us the tool box for innovation, critical thinking, gracious professionalism, and hopes for the future. 
-<img class="img-fluid" src="../img/micromouse/protolab.png">
+<img class="img-fluid" src="../img/protolab/protolab.png">
 I am so grateful for the doors and windows that FIRST robotics has opened for me. Robotics has been a challenge for the past years; having to project manage entire robotics competitions, to wrangling a team together to get a robot built, attending various community service and outreach programs. But like everything, I am always up for a challenge! I have really grown as an individual through Team Magma and I feel ready for my future.
 
 <ul>
