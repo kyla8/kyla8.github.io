@@ -9,7 +9,7 @@ labels:
   - Design Patterns
   - Graphic Design
 ---
-<img class="rounded float-start pe-4" src="../img/design_pattern/purpleCrayon.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/design_pattern/purpleCrayon.jpg">
 
 ## Coding Canvas
 In the vast canvas of software development, design patterns are the artist's palette, offering a spectrum of colors to transform abstract ideas into tangible, structured solutions. Imagine the codebase as a canvas ready to be painted with design patterns as we set out on our creative adventure, each one adding a special touch to the final product.
