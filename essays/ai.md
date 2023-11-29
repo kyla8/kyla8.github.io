@@ -70,7 +70,3 @@ AI has enormous potential for the future of software engineering education. More
 ### VIII. Conclusion:
 
 In conclusion, incorporating AI within the Software Engineering course has been a useful and transforming experience. The wide range of tools has improved understanding, skill growth, and problem-solving. Even when there are difficulties, they offer chances for development and enhancement. The comparative research shows that learning environments that are dynamic and engaging are provided by AI-enhanced techniques. With possible breakthroughs and ongoing progress in addressing ethical issues, the future of artificial intelligence (AI) in software engineering education appears bright. Continued cooperation between instructors, AI developers, and students is essential to ensuring the efficient and appropriate use of these potent tools in order to maximize AI incorporation in upcoming courses.
-
-
-
-
