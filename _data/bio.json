@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Kyla Lee",
+    "label": "Student",
+    "picture": "https://github.com/kyla8.png",
+    "email": "kyla8@hawaii.edu",
+    "phone": "808-218-9249",
+    "website": "https://kyla8.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024. My career goal is to become a Project Manger in a computer science company. ",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "kyla8", "url": "http://github.com/kyla8" },
+      { "network": "linkedin", "username": "kyla-lee", "url": "http://linkedin.com/in/kyla-lee-8o8" }
+    ]
+  },
+  "interests": [
+    { "name": "Engineering" },
+    { "name": "Project Management" },
+    { "name": "Computer Science" },
+    { "name": "3D CAD" },
+    { "name": "Robotics" },
+    { "name": "Cars" },
+    { "name": "Motorcycles" }
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Project Management", "Budgeting and Cost Analysis", "Communication", "Public Speaking", "Organizational skills", "Grant Writing", "Event Planning", "Leadership", "Fundraising" ]
+    },
+    {
+      "name": "World Languages",
+      "keywords": ["Mandarin- Proficent", "Cantonese - intermediate" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-14",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Online Learning Academy",
+      "position": "Tutor",
+      "website": "http://manoa.hawaii.edu/ola/",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "summary": "Tutor for math (up to Calculus II)",
+      "highlights": [
+        "Adapt and adjust to an online Zoom format of customer service",
+        "Aid clients of all ages understand the curriculum"
+      ]
+    },
+    {
+      "company": "Lahaina Shave Ice",
+      "position": "Food Service Associate/Cashier",
+      "website": "",
+      "startDate": "2021-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        "Provide good customer service to people from all around the world",
+        "Ensure the health and safety of customers through proper food distribution"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association for Computing Machinery at UH Manoa (ACManoa/ACM)",
+      "website": "https://acmmanoa.org/about/",
+      "position": "Vice President",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Project Manage variousteams on the Board",
+      "highlights": [
+        "Led weekly meetings",
+        "Coordinated with team members and staff about events"
+      ]
+    },
+    {
+      "organization": "Kalani Robotics Academy (KRA)",
+      "website": "",
+      "position": "Project Manager",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Project Lead for annual academies",
+      "highlights": [
+        "Kalani hosts annual academies as a fundraiser for the robotics team. KRA is a week-long science camp where students from grades 1-8 get to explore science, technology, engineering, mathematics, and computing",
+        "It is completely student-run from making the flyers to the lesson plans. I had the opportunity to be the project manager where I learned organization and leadership skills"
+      ]
+    },
+    {
+      "organization": "STEM Nights and Robot Demos",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "To outreach to other schools and get kids excited about STEM, the robotics team does STEM nights and robot demos for elementary schools.",
+      "highlights": [
+        "Aina Haina Elementary Bristlebot STEM night",
+        "St. Patrick Elementary Bristlebot STEM night",
+        "Kahala Elementary Robot demo"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Regents Scholarship",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.8. The Regents Scholarship awards full tuition for both Fall and Spring semesters, a $2,000 semester based stipend, and a one-time travel stipend of $2,000 to successful applicants attending University of Hawaiʻi at Mānoa (UHM)."
+    },
+    {
+      "title": "Engineering Inspiration Award",
+      "date": "2022",
+      "awarder": "For Inspiration and Recognition in Science and Technology (FIRST) Robotics Competition",
+      "summary": "My team won the Engineering Inspiration Award and a free ticket to the World's Competition in Houston, Texas.  See my portfolio site for more details."
+    }, 
+    {
+      "title": "2022 National Honorable Mention",
+      "date": "2022",
+      "awarder": "Aspirations in Computing (NCWIT)",
+      "summary": "NCWIT supports women in STEM and recognizes those individuals that have a significant impact on their community through STEM and outreach."
+    }, 
+    {
+      "title": "World's Dean's List Winner",
+      "date": "2021",
+      "awarder": "For Inspiration and Recognition in Science and Technology (FIRST) Tech Challenge",
+      "summary": "10 people are selected worldwide for recognition for students leaders who have led their Teams and communities to increased awareness for FIRST and its mission."
+    }
+  ],
+
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
